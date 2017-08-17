@@ -24,14 +24,14 @@ body {
 {
     float: left;
     width: 43%;
-    margin-left:15%;
+    margin-left:5%;
 }
 
 .column-right
 {
     float: right;
-    width: 20%;
-    margin-right:15%;
+    width: 35%;
+    margin-right:5%;
 }
 
 /* HEADER */
@@ -73,6 +73,12 @@ body {
     font-weight: bold;
 }
 
+#header #navigation a:active
+{
+    color:#4aaaa5;
+    font-weight: bold;
+}
+
 /* MAIN */
 #main
 {
@@ -91,9 +97,9 @@ body {
 #main .column-left
 {
     border:1px solid #dddddd;
-    padding: 30px;
+    padding: 35px;
     background-color: white;
-    width: 43.2%;
+    width: 45%;
     margin-bottom: 10%
 }
 
@@ -117,9 +123,9 @@ body {
 #main .column-right
 {
     border:1px solid #dddddd;
-    padding: 30px;
+    padding: 20px;
     background-color: white;
-    width: 15.7%;
+    width: 25%;
 }
 
 #main .column-right h2
@@ -171,7 +177,7 @@ body {
 
 .message{
     text-align: left;
-    width: 620px;
+    width: 100%;
     height: 180px;
     text-indent: 10px;
     font-size: 18px;
@@ -181,7 +187,7 @@ body {
     text-align: left;
     font-size: 18px;
     text-indent: 10px;
-    width: 620px;
+    width: 100%;
     height: 20px;
 }
 
@@ -229,7 +235,7 @@ body {
     background-color: #4aaaa5;
     text-align: center;
     position: absolute;
-    width: 19.4%;
+    width: 20.25%;
     margin-top: 105px;
 }
 
