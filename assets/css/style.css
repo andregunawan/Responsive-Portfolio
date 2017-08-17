@@ -9,7 +9,7 @@ body {
     background-image: url(../images/shattered_2.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 180%;
+    background-size: 200%;
 }
 
 #header
@@ -458,7 +458,7 @@ h1 {
 #header #navigation a
 {
     font-size: 10pt;
-    padding: 0px 50px;
+    padding: 0px 20px;
 }
 
 .column-left {
@@ -482,7 +482,7 @@ h1 {
 
 #main .column-left
 {
-    width: 83.5%;
+    width: 78%;
     text-align: center;
     margin-left: 2%;
     margin-bottom: 4%;
@@ -504,10 +504,10 @@ h1 {
 #main .column-right
 {
     padding: 2%;
-    width: 91.7%;
-    margin-right: 2%;
+    width: 91.2%;
+    margin-right: 2.5%;
     margin-left: 2%;
-    margin-bottom: 15%;
+    margin-bottom: 20%;
 }
 
 #main .column-right h2
@@ -536,7 +536,7 @@ h1 {
 }
 
 #portfolio li p {
-    width: 80.1%;
+    width: 74.7%;
     margin-top: -11%;
 }
 
