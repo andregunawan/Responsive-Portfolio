@@ -5,7 +5,7 @@
     padding: 0;
 }
 
-body { 
+html { 
     background-image: url(../images/shattered_2.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -395,8 +395,8 @@ h1 {
 #main .column-right
 {
     padding: 2%;
-    width: 89.9%;
-    margin-right: 2.69%;
+    width: 91.25%;
+    margin-right: 1.5%;
     margin-bottom: 15%;
 }
 
